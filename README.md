@@ -9,6 +9,8 @@ To analyze how the duration of investments and the frequency of monitoring them 
 
 Description:
 Objective: To understand the relationship between investment durations (how long investments are held) and monitoring frequencies (how often investments are reviewed), and how these factors influence investment choices and preferences.
+![Screenshot 2024-09-19 205134](https://github.com/user-attachments/assets/56618d7b-928e-48bb-9133-523f917d8201)
+
 
 Steps for Analysis:
 Data Collection:
